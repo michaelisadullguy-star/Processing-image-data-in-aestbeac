@@ -47,4 +47,4 @@ Change the values, save the JSON file, and press **R** in the running sketch to 
 
 ## License
 
-This project is licensed under the terms of the [MIT License](LICENSE).
+This project is licensed under the terms of the [Apache 2.0 License](LICENSE).
